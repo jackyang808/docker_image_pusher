@@ -1,1 +1,2 @@
 zyplayer/zyplayer-doc
+jc21/nginx-proxy-manager
